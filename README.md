@@ -1,4 +1,4 @@
-# Convex-Optimization-Learning-ToolKit
+# Convex-Optimization-Learning-Materials
 This repo is created for during the learning of Convex Optimization
 
 # Table of contents
